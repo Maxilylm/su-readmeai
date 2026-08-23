@@ -2,7 +2,7 @@
 
 > Paste code or describe a project, get a complete README.md back.
 
-**[Live demo](https://su-readmeai.vercel.app)**
+**[Live demo](https://readmeai-mlx.vercel.app)**
 
 Most side projects ship without a README because writing one from scratch is tedious. ReadMeAI takes a code paste or a plain-English project description (truncated server-side to 8,000 characters) and sends it to Llama 3.3 on Groq with a technical-writer system prompt. The model returns markdown covering title, description, features, installation, usage, tech stack, and an MIT license section, which the page renders as raw markdown ready to copy into a repo.
 
@@ -32,4 +32,4 @@ Requires `GROQ_API_KEY` in `.env.local` (see `.env.example`).
 
 ---
 
-Part of a series of 91 small web apps. [Browse them all](https://su-slopmachine.vercel.app).
+Part of a series of 91 small web apps. [Browse them all](https://lorenzoylosada.vercel.app).
